@@ -6,7 +6,7 @@ In a world that has unlimited needs but scarce resources, it is crucial to optim
 
 In this report, a dataset from Kaggle (Islam, 2024) will be used for the analysis. It contains information about the flow of oil (import, export, production, consumption, etc) across multiple countries from 2021-2023. More details about the dataset can be found at https://www.kaggle.com/datasets/sazidthe1/oil-production
 
-The goal of the analysis is to solve the following business problems: What are the best investment & export strategies to promote stability and energy efficiency around the world?
+The goal of the analysis is to solve the following business problems: What are the best investment & export strategies to promote stability for the Oil & Gas market around the world?
 
 ## Oil Production
 
